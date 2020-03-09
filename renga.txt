@@ -1,2 +1,6 @@
 Hello creating text in the file. Adding more content...
+<<<<<<< HEAD
 and another line....
+=======
+and another line
+>>>>>>> 2d9bbfe23f1ccb4d75515f19188855991044ca75
